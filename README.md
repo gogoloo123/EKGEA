@@ -1,4 +1,4 @@
-# An Entity Alignment Model for Echinococcosis Knowledge Graph
+
 
 ## Dependencies
 - python: 3.7
